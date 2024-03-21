@@ -5,4 +5,4 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: my-step
-        run: echo "Ramzan Kareem!"
+        run: echo "Ramzan Kareem. May this Ramzan be a source of lots of blessings and Jannah!"
